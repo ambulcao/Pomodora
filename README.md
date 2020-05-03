@@ -1,4 +1,4 @@
-![enter image description here](https://github.com/HBeserra/OmniStack-11/raw/master/logo.png)
+![enter image description here](https://github.com/ambulcao/Pomodora/blob/master/logo.png)
 
 # Pomodoro APP
 
